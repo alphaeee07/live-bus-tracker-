@@ -1,0 +1,6 @@
+{
+  "name": "KSRTC AVLS — Karnataka Live Bus Tracking & Route Planner",
+  "description": "Karnataka State Road Transport Corporation Automatic Vehicle Location System for real-time bus tracking, live ETAs, and route planning across all 31 districts of Karnataka.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
